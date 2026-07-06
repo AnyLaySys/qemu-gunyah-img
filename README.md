@@ -1,1 +1,1 @@
-<span style="color:#4A4A4A; font-weight:bold;">St</span><span style="color:#D32F2F; font-weight:bold;">reli</span><span style="color:#FFB300; font-weight:bold;">cap</span>
+$$\Large\mathbf{\color{#555555}{St}\color{#D32F2F}{reli}\color{#FFB300}{cap}}$$
